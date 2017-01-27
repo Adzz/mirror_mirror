@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "ShowMeHowTo",
+      "slots": [
+        {
+          "name": "DoSomething",
+          "type": "LIST_OF_ACTIVITIES"
+        }
+      ]
+    }
+  ]
+}

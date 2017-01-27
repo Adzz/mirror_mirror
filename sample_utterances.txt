@@ -1,0 +1,39 @@
+// Each line of a sample utterances file consists of two fields separated by tabs or spaces:
+// The name of the intent on the left, the phrase a user might speak to signal that intent on the right
+// Slots are arguments to intents, they should be in curly braces
+
+ShowMeHowTo show me how to {DoSomething}
+ShowMeHowTo show me {DoSomething}
+ShowMeHowTo show us how to {DoSomething}
+ShowMeHowTo show us {DoSomething}
+ShowMeHowTo teach me {DoSomething}
+ShowMeHowTo teach me how to {DoSomething}
+ShowMeHowTo teach us {DoSomething}
+ShowMeHowTo teach us how to {DoSomething}
+ShowMeHowTo teach me the best way to {DoSomething}
+ShowMeHowTo teach us the best way to {DoSomething}
+ShowMeHowTo what's the best way to {DoSomething}
+ShowMeHowTo what is the best way to {DoSomething}
+ShowMeHowTo how do I {DoSomething}
+ShowMeHowTo how do you {DoSomething}
+ShowMeHowTo how can you {DoSomething}
+ShowMeHowTo how can I {DoSomething}
+ShowMeHowTo can you {DoSomething}
+ShowMeHowTo can I {DoSomething}
+ShowMeHowTo demonstrate {DoSomething}
+ShowMeHowTo demonstrate how to {DoSomething}
+ShowMeHowTo is it possible to {DoSomething}
+ShowMeHowTo what's a good way to {DoSomething}
+ShowMeHowTo what is a good way to {DoSomething}
+ShowMeHowTo show me the best way to {DoSomething}
+ShowMeHowTo demonstrate a good way to {DoSomething}
+ShowMeHowTo demonstrate how to {DoSomething}
+ShowMeHowTo quick how do I {DoSomething}
+ShowMeHowTo can you show me how to {DoSomething}
+ShowMeHowTo can't you show me how to {DoSomething}
+ShowMeHowTo would you show me how {DoSomething}
+ShowMeHowTo would you show me {DoSomething}
+ShowMeHowTo would you teach me {DoSomething}
+ShowMeHowTo would you teach me how {DoSomething}
+ShowMeHowTo would you teach me how to {DoSomething}
+ShowMeHowTo would you demonstrate {DoSomething}
